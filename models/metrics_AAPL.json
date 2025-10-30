@@ -1,0 +1,11 @@
+{
+  "train_loss": 0.0031874915584921837,
+  "val_loss": 0.003901332151144743,
+  "test_loss": 0.008541392162442207,
+  "epochs_trained": 50,
+  "final_train_loss": 0.0031874915584921837,
+  "final_val_loss": 0.003901332151144743,
+  "train_samples": 835,
+  "val_samples": 119,
+  "test_samples": 240
+}
